@@ -17,4 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/IgorRibeiroGuimaraes/IgorRibeiroGuimaraes/blob/output/github-contribution-grid-snake.svg)
+
