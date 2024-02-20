@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently not working, I'm looking for my first job<br>🌱 I’m currently learning HTML, CSS, JavaScript, React.js, JAVA, SQL<br>👨‍🎓 I am currently in my second year of Software Engineering
+🔭 I'm currently not working, I'm looking for my first job<br>🌱 I’m currently learning HTML, CSS, JavaScript, React.js, JAVA, SQL<br>👨‍🎓 I am currently in my third year of Software Engineering
 
 
 ## 🌐 Socials:
