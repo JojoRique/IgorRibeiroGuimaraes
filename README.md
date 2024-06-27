@@ -1,14 +1,14 @@
 <div align="center">
-  <img  width="100%"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="345" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
+<img align="right" height="307" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1004&color=F7F7F7&random=false&width=435&lines=Hey+There+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left"> 💻 Tech Stack:</h3>
+<h3 align="left"></> Tech Stack:</h3>
 
 ###
 
@@ -56,10 +56,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorRibeiroGuimaraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-    <br/>
   <img src="https://streak-stats.demolab.com?user=IgorRibeiroGuimaraes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-
   <img src="https://github-readme-stats.vercel.app/api?username=IgorRibeiroGuimaraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="239" alt="stats graph"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+###
