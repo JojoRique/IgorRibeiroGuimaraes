@@ -54,13 +54,13 @@
 
 ###
 
-<br clear="both">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorRibeiroGuimaraes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=IgorRibeiroGuimaraes&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IgorRibeiroGuimaraes&theme=tokyonight&hide_border=true)<br/>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorRibeiroGuimaraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=IgorRibeiroGuimaraes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorRibeiroGuimaraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="239" alt="stats graph"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=IgorRibeiroGuimaraes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
