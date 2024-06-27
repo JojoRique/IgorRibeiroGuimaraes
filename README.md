@@ -8,8 +8,8 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1004&color=F7F7F7&random=false&width=435&lines=Hey+There+%F0%9F%91%8B)](https://git.io/typing-svg)
+---- 
 ###
 
 <h3 align="left">👩‍💻  About Me :</h3>
@@ -17,6 +17,7 @@
 ###
 
 <p align="left">I'm  Igor Ribeiro Guimarães from Brazil<br><br>- 🔭 I’m working as a Data Intern<br>- 📚 I'm currently learning SQL, Next, React, Postgree, Docker, Prisma, Node<br>- ⚡ In my free time I like to read, play and study something new involving programming</p>
+
 
 ###
 
