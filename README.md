@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="345" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -8,8 +8,8 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1004&color=F7F7F7&random=false&width=435&lines=Hey+There+%F0%9F%91%8B)](https://git.io/typing-svg)
----- 
+<h1 align="center">Hey There 👋</h1>
+
 ###
 
 <h3 align="left">👩‍💻  About Me :</h3>
@@ -18,10 +18,11 @@
 
 <p align="left">I'm  Igor Ribeiro Guimarães from Brazil<br><br>- 🔭 I’m working as a Data Intern<br>- 📚 I'm currently learning SQL, Next, React, Postgree, Docker, Prisma, Node<br>- ⚡ In my free time I like to read, play and study something new involving programming</p>
 
-
 ###
 
-<h3 align="left"></> Tech Stack:</h3>
+<br clear="both">
+
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -57,6 +58,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorRibeiroGuimaraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=IgorRibeiroGuimaraes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=IgorRibeiroGuimaraes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="239" alt="stats graph"  />
 </div>
