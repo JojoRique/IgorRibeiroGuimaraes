@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&random=false&width=340&lines=Hey+There+%F0%9F%91%8B;I%C2%B4m+Igor+Ribeiro+Guimar%C3%A3es)](https://git.io/typing-svg)
 
 ###
 
