@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me :</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" />  About Me :</h3>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="left"> 🤷🏻‍♂️ Onde me encontrar: </h3>
+<h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Shrugging.webp" alt="Man Shrugging" width="25" height="25" /> Onde me encontrar: </h3>
 
 ###
 
